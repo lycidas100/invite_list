@@ -1,0 +1,26 @@
+.invites {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.invites h4 {
+
+    font-weight: normal;
+}
+
+.invites-table {
+
+    padding: 10px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+th,
+td {
+    padding: 5px;
+}
